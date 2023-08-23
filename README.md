@@ -19,7 +19,7 @@ NOW search the Load Balancer DNS and logging into wordpress log in page..!
 
 
 
+(https://github.com/ajay-devop/Wordpress-userdata/assets/133880997/8741fdce-f8ea-462a-b9df-f601a125ec59)
 
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/ajay-devop/Wordpress-userdata/assets/133880997/8741fdce-f8ea-462a-b9df-f601a125ec59)" width="200" height="400" />
