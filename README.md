@@ -1,4 +1,4 @@
-# Wordpress-userdata
+# Wordpress-userdata /3 Tier Architecture
 
 
 fisrtly create vpc and more with 2 public and 4 private subnets without s3 end point and NAT gwatway in two availability zones.
