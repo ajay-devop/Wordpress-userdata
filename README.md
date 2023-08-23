@@ -20,5 +20,5 @@ NOW search the Load Balancer DNS and logging into wordpress log in page..!
 
 
 
-![image](https://github.com/ajay-devop/Wordpress-userdata/assets/133880997/8741fdce-f8ea-462a-b9df-f601a125ec59)
+![image](https://github.com/ajay-devop/Wordpress-userdata/assets/133880997/8741fdce-f8ea-462a-b9df-f601a125ec59 width="200" height="400")
 
