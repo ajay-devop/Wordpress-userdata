@@ -18,6 +18,15 @@ add all traffic with anywhere..
 NOW search the Load Balancer DNS and logging into wordpress log in page..!
 
 
+USE Service For AWS -- Load balance, RDS, Auto-Scliang, NAT Geteway, Elastic IP
+
+
+
+
+
+
+
+
 
 ![image](https://github.com/ajay-devop/Wordpress-userdata/assets/133880997/6c1268a1-e73c-4c9b-9406-fd14f63a2eb9)
 
